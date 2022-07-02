@@ -4,4 +4,4 @@
 
 # 性能测试
 在
-![benchmark](https://github.com/RyanQyt/Concurrent_memory_pool/tree/main/resources/benchmark.png)
+![benchmark](resources/benchmark.png)
